@@ -1,5 +1,5 @@
 <h1 align="center">MKBSD <code>Actions</code></h1>
-<p align="center">Make GitHub download all wallpapers from "your favorite sell-out"<br><sub>"Now Kansei-drifting at 96 mph in a 35 mph residential area!"</sub></p>
+<p align="center">Make GitHub download all wallpapers from "your favorite sell-out"<br><sub>"Now Kansei-drifto-ing at 96 mph in a 35 mph residential area!"</sub></p>
 <p align="center">
 <a href="https://github.com/Alex4386/mkbsd-actions/actions/workflows/download.yml"><img src="https://github.com/Alex4386/mkbsd-actions/actions/workflows/download.yml/badge.svg" /></a>
 </p>
