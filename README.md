@@ -1,5 +1,5 @@
 <h1 align="center">MKBSD <code>Actions</code></h1>
-<p align="center">Make GitHub download all wallpapers from "your favorite sell-out"<br><sub>"Now Kansei-dorifto-ing at 96 mph in a 35 mph residential area!"</sub></p>
+<p align="center">Make GitHub download all wallpapers from "your favorite sell-out"<br><sub><a href="https://www.reddit.com/r/youtube/comments/1gpgzno/mkbhd_goes_96mph_in_a_35_zone_past_a_children_in/">"Now Kansei-dorifto-ing at 96 mph in a 35 mph residential area!"</a></sub></p>
 <p align="center">
 <a href="https://github.com/Alex4386/mkbsd-actions/actions/workflows/download.yml"><img src="https://github.com/Alex4386/mkbsd-actions/actions/workflows/download.yml/badge.svg" /></a>
 </p>
